@@ -10,7 +10,7 @@ readme = "README.md"
 license = "Apache-2.0"
 license-files = ["LICENSE"]
 requires-python = ">=3.11"
-authors = [{ name = "data-room-organizer contributors" }]
+authors = [{ name = "Edward Scannell" }]
 keywords = ["data-room", "documents", "diligence", "filing", "organization", "metadata"]
 classifiers = [
     "Development Status :: 1 - Planning",
